@@ -1,0 +1,7 @@
+how does this work?
+
+this simply spoofs your HWID to a shared HWID with multiple people so you can use the same keys on X amount of pcs 
+
+keep in mind FFF will be manually banning these keys so dont expect it to last too long if its released, i assume a few hours or maybe a day or 2 before he blacklists this driver like he did the last.
+
+you can put the driver in HxD and change the disk serial incase it does get banned and switch to a diff one, replace the key in the source with your own, last tested and working : 11/17/2023 Enjoy (note for FFF : everything is possible, calm your ego down and get humble)
